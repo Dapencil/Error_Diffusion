@@ -1,0 +1,10 @@
+D:\Csharp\Error_Diffusion\Error_Diffusion\bin\Debug\Error_Diffusion.exe
+D:\Csharp\Error_Diffusion\Error_Diffusion\bin\Debug\Error_Diffusion.pdb
+D:\Csharp\Error_Diffusion\Error_Diffusion\bin\Debug\System.Drawing.Common.dll
+D:\Csharp\Error_Diffusion\Error_Diffusion\bin\Debug\System.Drawing.Common.xml
+D:\Csharp\Error_Diffusion\Error_Diffusion\obj\Debug\Error_Diffusion.csproj.AssemblyReference.cache
+D:\Csharp\Error_Diffusion\Error_Diffusion\obj\Debug\Error_Diffusion.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\Error_Diffusion\Error_Diffusion\obj\Debug\Error_Diffusion.csproj.CoreCompileInputs.cache
+D:\Csharp\Error_Diffusion\Error_Diffusion\obj\Debug\Error_Diffusion.csproj.CopyComplete
+D:\Csharp\Error_Diffusion\Error_Diffusion\obj\Debug\Error_Diffusion.exe
+D:\Csharp\Error_Diffusion\Error_Diffusion\obj\Debug\Error_Diffusion.pdb
